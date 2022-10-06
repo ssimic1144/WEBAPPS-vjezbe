@@ -12,12 +12,9 @@ license: CC BY-SA
 
 1. Instalirat nodejs i npm na PC
 2. Napiši funkciju koja pretvara HRK u EUR
+3. Napiši funkciju koja provjerava nalazi li se dani broj X unutar [100,150000]
 
-> Ispis : 150 -> "To je 20 EUR"
-
-3. Napiši funkciju koja provjerava nalazi li se dani broj X unutar [0,100]
-
-> Ispis : 53 -> "53 je unutar [0,100]"
+> Ispis : 53 -> "53 nije unutar [100,150000]"
 
 4. Napiši funkciju koja pretvara broj X iz minuta u sate i minute
 
